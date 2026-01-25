@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Liz French — Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #fafafa;
+      --text: #111;
+      --muted: #666;
+      --accent: #000;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    a { color: inherit; text-decoration: none; }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 4rem;
+    }
+    nav a {
+      margin-left: 1.5rem;
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+    nav a:hover { color: var(--text); }
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 500;
+      margin-bottom: 1rem;
+    }
+    h2 {
+      font-size: 1.2rem;
+      font-weight: 500;
+      margin: 3rem 0 1rem;
+    }
+    p { max-width: 600px; }
+    .intro p { color: var(--muted); }
+    .work-item {
+      margin-bottom: 2.5rem;
+    }
+    .work-item span {
+      display: block;
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.25rem;
+    }
+    footer {
+      margin-top: 6rem;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <strong>Liz French</strong>
+      <nav>
+        <a href="#work">Work</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <section class="intro">
+      <h1>Product · UX · Research</h1>
+      <p>
+        I’m a product and UX-oriented researcher interested in human-centered computing,
+        feminist HCI, and AI-supported knowledge systems. Currently finishing my BS in
+        Industrial Engineering and preparing for graduate study in CS/HCI.
+      </p>
+    </section>
+
+    <section id="work">
+      <h2>Selected Work</h2>
+
+      <div class="work-item">
+        <span>2025 — Research</span>
+        <strong>Eyrie: AI Knowledge Base</strong>
+        <p>Design and implementation of an AI-assisted internal documentation system using Notion, embeddings, and vector search.</p>
+      </div>
+
+      <div class="work-item">
+        <span>2024 — UX / Product</span>
+        <strong>Canvas Assignment Reminder Redesign</strong>
+        <p>Human-centered redesign of academic task management informed by cognitive load and qualitative interviews.</p>
+      </div>
+
+      <div class="work-item">
+        <span>2024 — Industry</span>
+        <strong>Microsoft Embedded Payments App</strong>
+        <p>Product internship project enabling small businesses to invoice and accept payments directly in Microsoft Teams.</p>
+      </div>
+    </section>
+
+    <section id="about">
+      <h2>About</h2>
+      <p>
+        I’m interested in how people make meaning with technology—especially in intimate,
+        embodied, or high-stakes contexts like health, sexuality, and work. Outside of
+        research, I enjoy yoga, lifting, hiking, music, and caring for cats.
+      </p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>
+        lizfrench.xyz · email@example.com · LinkedIn · GitHub
+      </p>
+    </section>
+
+    <footer>
+      © 2026 Liz French
+    </footer>
+  </div>
+</body>
+</html>
