@@ -1,0 +1,60 @@
+body {
+margin: 0;
+font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+color: #111;
+background: #fff;
+}
+
+.container {
+max-width: 900px;
+margin: 0 auto;
+padding: 60px 40px;
+}
+
+header {
+margin-bottom: 80px;
+}
+
+.site-title {
+font-size: 28px;
+letter-spacing: 1px;
+font-weight: 500;
+}
+
+nav {
+margin-top: 16px;
+}
+
+nav a {
+margin-right: 28px;
+font-size: 14px;
+letter-spacing: 1px;
+color: #bbb;
+text-decoration: none;
+}
+
+nav a.active {
+color: #000;
+}
+
+h2 {
+font-size: 22px;
+margin-top: 80px;
+margin-bottom: 24px;
+}
+
+p, li {
+font-size: 18px;
+line-height: 1.7;
+color: #777;
+max-width: 650px;
+}
+
+.entry {
+margin-bottom: 22px;
+}
+
+.entry em {
+font-style: italic;
+color: #888;
+}
