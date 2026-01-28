@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Research — Liz French</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+<header>
+<div class="site-title">LIZ FRENCH</div>
+<nav>
+<a href="index.html">HOME</a>
+<a href="about.html">ABOUT</a>
+<a href="research.html" class="active">RESEARCH</a>
+<a href="experience.html">EXPERIENCE</a>
+<a href="resume.html">RESUME</a>
+</nav>
+</header>
+
+
+<p>
+Currently in the Equity & Sustainability in Computing (ESCapE) Lab @ Georgia Tech —
+working on a project surrounding DIY porn, sexuality, and online communities.
+</p>
+
+
+<p>
+Interested in feminist HCI, queer HCI, humanistic computing, women's health,
+and sexual health.
+</p>
+</div>
+</body>
+</html>
