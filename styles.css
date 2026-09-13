@@ -60,6 +60,7 @@ p, li {
     line-height: 1.7;
     color: #777;
     max-width: 650px;
+    margin: 0;
 }
 
 .entry {
