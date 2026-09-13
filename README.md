@@ -1,7 +1,6 @@
 Hello! Welcome to my digital portfolio.
 
-My homepage is index.html. 
-Info about me and my background is found at about.html. 
+My homepage is index.html, where you can find info about me. 
 My research and industry experience can be found at experience.html. 
 A link to my CV is at resume.html.
 
