@@ -59,7 +59,8 @@ nav a::after {
 
 nav a.active {
     /*color: rgb(249, 74, 120);*/
-    color: rgb(255,70,162);
+    /*color: rgb(255,70,162);*/
+    color: rgb(255, 16, 240);
 }
 
 h2 {
