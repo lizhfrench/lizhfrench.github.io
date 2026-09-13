@@ -63,6 +63,11 @@ nav a.active {
     color: rgb(255, 16, 240);
 }
 
+a {
+    color: rgb(255, 16, 240);
+    text-decoration: none;
+}
+
 h2 {
     font-size: 22px;
     margin-top: 0px;
