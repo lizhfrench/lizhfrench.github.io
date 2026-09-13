@@ -1,37 +1,39 @@
 body {
-margin: 0;
-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-color: #111;
-background: #fff;
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #111;
+    background: #fff;
 }
 
 .container {
-max-width: 900px;
-margin: 0 auto;
-padding: 60px 40px;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 60px 40px;
 }
 
 header {
-margin-bottom: 80px;
+    margin-bottom: 80px;
 }
 
 .site-title {
-font-size: 28px;
-letter-spacing: 1px;
-font-weight: 500;
+    font-size: 28px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    color: rgb(0, 0, 255);
+    font-style: italic;
 }
 
 nav {
-margin-top: 16px;
+    margin-top: 16px;
 }
 
 nav a {
-margin-right: 28px;
-font-size: 14px;
-letter-spacing: 1px;
-color: rgb(0, 0, 255);
-text-decoration: none;
-font-style: italic;
+    margin-right: 28px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: rgb(0, 0, 255);
+    text-decoration: none;
+    font-style: italic;
 }
 
 nav a::before {
@@ -47,16 +49,17 @@ nav a.active {
 }
 
 h2 {
-font-size: 22px;
-margin-top: 80px;
-margin-bottom: 24px;
+    font-size: 22px;
+    margin-top: 80px;
+    margin-bottom: 24px;
+    font-style: italic;
 }
 
 p, li {
-font-size: 18px;
-line-height: 1.7;
-color: #777;
-max-width: 650px;
+    font-size: 18px;
+    line-height: 1.7;
+    color: #777;
+    max-width: 650px;
 }
 
 .entry {
@@ -68,14 +71,14 @@ max-width: 650px;
 }
 
 .entry em {
-font-style: italic;
-color: #888;
+    font-style: italic;
+    color: #888;
 }
 
 footer {
-text-align: center;
-font-size: 9px;
-color: #aaa;
-padding: 40px 0 20px;
-opacity: 0.6;
+    text-align: center;
+    font-size: 10px;
+    color: #aaa;
+    padding: 40px 0 20px;
+    opacity: 0.6;
 }
