@@ -51,7 +51,11 @@ max-width: 650px;
 }
 
 .entry {
-margin-bottom: 22px;
+    margin-bottom: 22px;
+    font-size: 18px;
+    line-height: 1.7;
+    color: #777;
+    max-width: 650px;
 }
 
 .entry em {
