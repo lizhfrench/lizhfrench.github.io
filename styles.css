@@ -73,7 +73,14 @@ p, li {
     line-height: 1.7;
     color: #777;
     max-width: 650px;
+}
+
+p {
     margin: 0 0 22px 0;
+}
+
+li {
+    margin: 0 0 8px 0;
 }
 
 .entry {
