@@ -120,3 +120,12 @@ footer {
     opacity: 0.6;
     margin-top: auto;
 }
+
+.side-image {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: auto;
+    object-fit: cover;
+}
