@@ -63,12 +63,12 @@ nav a.active {
     color: rgb(255, 16, 240);
 }
 
-p a {
+p a, .entry a, li a {
     color: rgb(255, 16, 240);
     text-decoration: none;
 }
 
-p a:hover {
+p a:hover, .entry a:hover, li a:hover {
     text-decoration: underline;
 }
 
