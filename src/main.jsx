@@ -31,6 +31,7 @@ function SiteHeader({ page }) {
 function AboutPage() {
   return (
     <>
+      <img className="profile-photo" src="/me.png" alt="Liz French" />
       <p>
         Hi, I'm Liz <em>(she/her)</em>! I'm currently a researcher in the Equity & Sustainability in Computing Lab 
         at Georgia Tech's <a href="https://www.ic.gatech.edu/">School of Interactive Computing </a>
