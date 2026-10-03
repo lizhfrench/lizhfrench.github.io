@@ -111,6 +111,9 @@ function ResearchPage() {
           </p>
         </article>
       </section>
+    </>
+  );
+}
 
 const experience = {
   Research: [
