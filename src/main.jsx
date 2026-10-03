@@ -145,16 +145,17 @@ function ResearchPage() {
         
         <article className="research-project">
           <p className="project-kicker">Team member • Undergraduate senior design</p>
-          <h3>Improving interventional radiology scheduling</h3>
+          <h3>Improving Emory  University Hospital's interventional radiology scheduling</h3>
           <p>
-            With a team of seven other Industrial Engineering students, I worked with Emory
-            University Hospital's Interventional Radiology (IR) department to define and address a
+            With a team of seven other industrial engineering students, I worked with Emory
+            University Hospital's interventional radiology (IR) department to define and address a
             scheduling problem. We found that miscommunication between patient and provider
-            scheduling teams left procedure rooms empty. We built an Excel macro tool that let
+            scheduling teams left procedure rooms empty for long periods. We built an Excel macro tool that let
             schedulers enter constraints and generated several optimized schedules designed to
             fill rooms while minimizing gaps between procedures.
           </p>
-          <p className="project-note"><a href="https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678">Senior design project summary</a></p>
+          <p className="project-note"><a href="https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678">Project summary</a></p>
+          <p className="project-note"><a href="https://canva.link/6vbsr0niux0jd1z">Final capstone poster</a></p>
         </article>
       </section>
     </>
