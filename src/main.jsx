@@ -53,7 +53,7 @@ function AboutPage() {
         You can contact me at <a href="mailto:lizhfrench@gmail.com">lizhfrench [at] gmail [dot] com</a>{' '}
         (personal) or <a href="mailto:efrench6@gatech.edu">efrench6 [at] gatech [dot] edu</a> (academic).
       </p>
-
+ {/* 
       <aside className="updates-panel" aria-labelledby="updates-title">
         <h2 id="updates-title">Recent updates <span aria-hidden="true">▾</span></h2>
         <div className="updates-list" tabIndex="0" aria-label="Recent research and conference updates">
@@ -71,6 +71,7 @@ function AboutPage() {
           </article>
         </div>
       </aside>
+  */}
     </>
   );
 }
