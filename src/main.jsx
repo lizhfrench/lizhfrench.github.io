@@ -35,7 +35,7 @@ function AboutPage() {
         Hi, I’m Liz <em>(she/her)</em>! I’m currently a researcher in the Equity & Sustainability in Computing Lab 
         at Georgia Tech's <a href="https://www.ic.gatech.edu/">School of Interactive Computing </a>
         advised by <a href="https://shaowenbardzell.com/">Dr. Shaowen Bardzell</a>. I'm working towards my
-        <a href="https://www.cc.gatech.edu/"></a> M.S. in Computer Science, concentrating in Human-Computer Interaction 
+         <a href="https://www.cc.gatech.edu/">M.S. in Computer Science</a>, concentrating in Human-Computer Interaction 
         (2027), and I also hold a <a href="https://www.isye.gatech.edu/">B.S. in Industrial Engineering</a> from Georgia Tech (2024).
       </p>
       <p>
@@ -45,10 +45,6 @@ function AboutPage() {
         and how this labor is discussed in online spaces. I’m also interested in how content moderation on platforms 
         such as OnlyFans and Patreon shapes creators' work. For more insight into my current and past research
         projects, go to <a href="research.html">Research</a>.
-      </p>
-      <p>
-        In my research, I focus on ethnography, interview studies, thematic coding, and platform and
-        policy analysis. I am comfortable with quantitative methods as well.
       </p>
       <p>
         I'm searching for PhD positions starting in the fall of 2027!
@@ -73,7 +69,7 @@ function ResearchPage() {
      <section className="research-section" aria-labelledby="current-projects">
         <h2 id="current-projects">Current research</h2>
         <article className="research-project">
-          <p className="project-kicker">First author · Work in progress</p>
+          <p className="project-kicker">First author • Work in progress</p>
           <h3>OnlyFans creators, bodies, and relationships on Reddit</h3>
           <p>
             This project examines a subreddit for OnlyFans creators and how members understand and
@@ -84,23 +80,23 @@ function ResearchPage() {
           <p className="project-note">
             I’ll present this work on panel 366, “Reworking TechnoPower: Everyday Digital Practices
             in Marginalized Worlds” at 4S.
-                      </p>
+          </p>
         </article>
       </section>
 
       <section className="research-section" aria-labelledby="papers-under-review">
         <h2 id="papers-under-review">Papers under review</h2>
         <article className="research-project">
-          <p className="project-kicker">Second author · Under review at JAMIA</p>
+          <p className="project-kicker">Second author • Under review at JAMIA</p>
           <h3>From Symptom Appraisal to Treatment Preparation: Expressed Needs and Peer Support in an Online Breast Health Community</h3>
           <p>
             For this study of a breast health community on Reddit, I helped the first author develop
-                        the codebook and coded 500 threads; the first author and I each coded 500 threads.
+            the codebook and coded 500 threads; the first author and I each coded 500 threads.
           </p>
           <p className="project-note">Submitted to the Journal of the American Medical Informatics Association (JAMIA).</p>
         </article>
         <article className="research-project">
-          <p className="project-kicker">Writing contributor · Under review at CHI 2027</p>
+          <p className="project-kicker">Writing contributor •-=[p Under review at CHI 2027</p>
           <h3>Ordinary Tools, Organized Care: Bounded Mutuality in Eating-Disorder Mutual Aid</h3>
           <p>
             This paper analyzes podcast episodes from a Chinese eating-disorder mutual-aid group.
@@ -109,6 +105,35 @@ function ResearchPage() {
             to make sense of volunteer work and develop knowledge for wider sharing. Contributing
             could also help members find value in their own recovery.
           </p>
+        </article>
+        
+      </section>
+      <section className="research-section" aria-labelledby="other-projects">
+        <h2 id="other-projects">Other projects</h2>
+        <article className="research-project">
+          <p className="project-kicker">Contributor • Project terminated</p>
+          <h3>AI in healthcare policy across low- and middle-income (LMIC) countries</h3>
+          <p>
+            Our team planned a comparative analysis of healthcare AI policy documents from three
+            countries. We read and coded the documents for infrastructure, software, actors and
+            institutions, and processes and protocols, as well as sector, funding, maturity, and
+            strategic intent. The project ended before the analysis was completed.
+          </p>
+          <p className="project-note"><a href="https://miro.com/app/board/uXjVGhpxQqk=/?share_link_id=618290897161">View the project board on Miro ↗</a></p>
+        </article>
+        
+        <article className="research-project">
+          <p className="project-kicker">Senior design • Emory University Hospital</p>
+          <h3>Improving interventional radiology scheduling</h3>
+          <p>
+            With a team of seven other Industrial Engineering students, I worked with Emory
+            University Hospital's Interventional Radiology (IR) department to define and address a
+            scheduling problem. We found that miscommunication between patient and provider
+            scheduling teams left procedure rooms empty. We built an Excel macro tool that let
+            schedulers enter constraints and generated several optimized schedules designed to
+            fill rooms while minimizing gaps between procedures.
+          </p>
+          <p className="project-note"><a href="https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678">Emory Healthcare senior design project ↗</a></p>
         </article>
       </section>
     </>
