@@ -94,7 +94,7 @@ function ResearchPage() {
             This project examines a subreddit for OnlyFans creators and how members understand and
             relate to themselves, their bodies, and one another. The paper is planned for submission
             to CSCW 2027. I'm also developing a zine from this work, planned for submission as a
-            pictorial to DIS 2027; I’m first author on both projects.
+            pictorial to DIS 2027.
           </p>
           <p className="project-note">
             I'll present this work on panel 366, "Reworking TechnoPower: Everyday Digital Practices
