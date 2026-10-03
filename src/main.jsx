@@ -110,7 +110,7 @@ function ResearchPage() {
             across countries. We plan to submit the project to DIS 2028.
           </p>
           <p className="project-note">
-            This project is set to begin in spring 2027.
+            This project will be continued in spring 2027.
           </p>
         </article>
       </section>
