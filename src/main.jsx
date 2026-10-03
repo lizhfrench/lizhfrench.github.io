@@ -32,18 +32,26 @@ function AboutPage() {
   return (
     <>
       <p>
-        Hi, I’m Liz <em>(she/her)</em>! I’m currently at{' '}
-        <a href="https://www.gatech.edu/">Georgia Tech</a> getting an M.S. in Computer Science,
-        concentrating in Human-Computer Interaction (2027). I also hold a B.S. in Industrial
-        Engineering from <a href="https://www.isye.gatech.edu/">Georgia Tech</a> (2024).
+        Hi, I’m Liz <em>(she/her)</em>! I’m currently a researcher in the Equity & Sustainability in Computing Lab 
+        at Georgia Tech's <a href="https://www.ic.gatech.edu/">School of Interactive Computing</a>
+        advised by <a href="https://shaowenbardzell.com/">Dr. Shaowen Bardzell</a>. I'm working towards my
+        <a href="https://www.cc.gatech.edu/"></a>M.S. in Computer Science, concentrating in Human-Computer Interaction 
+        (2027), and I also hold a B.S. in Industrial Engineering from <a href="https://www.isye.gatech.edu/">Georgia Tech</a> (2024).
       </p>
       <p>
-        I’m interested in HCI and STS research, specifically in labor, platform studies, sex worker
-        advocacy, and sex education.
+        I'm interested in HCI and STS research on labor and platform studies, particularly sex worker advocacy 
+        and sex education. I want to examine how intimate labor affects workers and their relationships, how 
+        sex workers organize and advocate for their rights, including through collective and unionizing efforts, 
+        and how this labor is discussed in online spaces. I’m also interested in how content moderation on platforms 
+        such as OnlyFans and Patreon shapes creators' work. For more insight into my current and past research
+        projects, go to <a href="research.html">Research</a>.
       </p>
       <p>
         In my research, I focus on ethnography, interview studies, thematic coding, and platform and
         policy analysis. I am comfortable with quantitative methods as well.
+      </p>
+      <p>
+        I'm searching for PhD positions starting in the fall of 2027!
       </p>
       <p className="contact-note">
         You can contact me at <a href="mailto:lizhfrench@gmail.com">lizhfrench [at] gmail [dot] com</a>{' '}
