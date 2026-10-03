@@ -65,18 +65,52 @@ function ResearchPage() {
   return (
     <>
       <p>
-        I’m currently in the <a href="https://www.esc-lab.org/">Equity &amp; Sustainability in
-        Computing (ESCape) Lab</a> at Georgia Tech, working on a paper about the body, OnlyFans, and
-        online communities, as well as a zine representing these findings.
+        My research sits at the intersection of human-computer interaction and science and technology
+        studies. I study how people build relationships, care, and community through digital platforms
+        and institutions. I’m part of the <a href="https://www.esc-lab.org/">Equity &amp; Sustainability
+        in Computing (ESCape) Lab</a> at Georgia Tech.
       </p>
-      <p>
-        I’ve also contributed to projects including writing assistance on a paper about an eating
-        disorder mutual-aid recovery group, a codebook for a breast cancer subreddit study, and AI
-        healthcare policy document analysis in LMIC countries.
-      </p>
-    </>
-  );
-}
+     <section className="research-section" aria-labelledby="current-projects">
+        <h2 id="current-projects">Current research</h2>
+        <article className="research-project">
+          <p className="project-kicker">First author · Work in progress</p>
+          <h3>OnlyFans creators, bodies, and relationships on Reddit</h3>
+          <p>
+            This project examines a subreddit for OnlyFans creators and how members understand and
+            relate to themselves, their bodies, and one another. The paper is planned for submission
+            to CSCW 2027. I’m also developing a zine from this work, planned for submission as a
+            pictorial to DIS 2027; I’m first author on both projects.
+          </p>
+          <p className="project-note">
+            I’ll present this work on panel 366, “Reworking TechnoPower: Everyday Digital Practices
+            in Marginalized Worlds 1,” at 4S.
+                      </p>
+        </article>
+      </section>
+
+      <section className="research-section" aria-labelledby="papers-under-review">
+        <h2 id="papers-under-review">Papers under review</h2>
+        <article className="research-project">
+          <p className="project-kicker">Second author · Under review at JAMIA</p>
+          <h3>From Symptom Appraisal to Treatment Preparation: Expressed Needs and Peer Support in an Online Breast Health Community</h3>
+          <p>
+            For this study of a breast health community on Reddit, I helped the first author develop
+                        the codebook and coded 500 threads; the first author and I each coded 500 threads.
+          </p>
+          <p className="project-note">Submitted to the Journal of the American Medical Informatics Association (JAMIA).</p>
+        </article>
+        <article className="research-project">
+          <p className="project-kicker">Writing contributor · Under review at CHI 2027</p>
+          <h3>Ordinary Tools, Organized Care: Bounded Mutuality in Eating-Disorder Mutual Aid</h3>
+          <p>
+            This paper analyzes podcast episodes from a Chinese eating-disorder mutual-aid group.
+            I contributed to the writing. The study describes how members balanced supporting
+            others with protecting their own recovery, using group supervision and shared reflection
+            to make sense of volunteer work and develop knowledge for wider sharing. Contributing
+            could also help members find value in their own recovery.
+          </p>
+        </article>
+      </section>
 
 const experience = {
   Research: [
