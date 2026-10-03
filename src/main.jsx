@@ -33,7 +33,7 @@ function AboutPage() {
     <>
       <img className="profile-photo" src="/me.png" alt="Portrait" />
       <p>
-        Hi, I'm Liz <em>(she/her)</em>! I'm currently a researcher in the <a href="https://www.esc-lab.org/">Equity & Sustainability in Computing Lab</a> 
+        Hi, I'm Liz <em>(she/her)</em>! I'm currently a researcher in the <a href="https://www.esc-lab.org/">Equity & Sustainability in Computing Lab </a> 
         at Georgia Tech's <a href="https://www.ic.gatech.edu/">School of Interactive Computing </a>
         advised by <a href="https://shaowenbardzell.com/">Dr. Shaowen Bardzell</a>. I'm working towards my
         <a href="https://www.cc.gatech.edu/"> M.S. in Computer Science</a>, concentrating in Human-Computer Interaction, 
