@@ -95,8 +95,9 @@ function ResearchPage() {
           </p>
           <p className="project-note">Submitted to the Journal of the American Medical Informatics Association (JAMIA).</p>
         </article>
+        
         <article className="research-project">
-          <p className="project-kicker">Writing contributor •-=[p Under review at CHI 2027</p>
+          <p className="project-kicker">Writing contributor • Under review at CHI 2027</p>
           <h3>Ordinary Tools, Organized Care: Bounded Mutuality in Eating-Disorder Mutual Aid</h3>
           <p>
             This paper analyzes podcast episodes from a Chinese eating-disorder mutual-aid group.
@@ -105,6 +106,7 @@ function ResearchPage() {
             to make sense of volunteer work and develop knowledge for wider sharing. Contributing
             could also help members find value in their own recovery.
           </p>
+          <p className="project-note">Submitted to Conference on Human Factors in Computing Systems (CHI) 2027.</p>
         </article>
         
       </section>
@@ -119,11 +121,11 @@ function ResearchPage() {
             institutions, and processes and protocols, as well as sector, funding, maturity, and
             strategic intent. The project ended before the analysis was completed.
           </p>
-          <p className="project-note"><a href="https://miro.com/app/board/uXjVGhpxQqk=/?share_link_id=618290897161">View the project board on Miro ↗</a></p>
+          <p className="project-note"><a href="https://miro.com/app/board/uXjVGhpxQqk=/?share_link_id=618290897161">View the project board on Miro</a></p>
         </article>
         
         <article className="research-project">
-          <p className="project-kicker">Senior design • Emory University Hospital</p>
+          <p className="project-kicker">Undergraduate senior design • Emory University Hospital</p>
           <h3>Improving interventional radiology scheduling</h3>
           <p>
             With a team of seven other Industrial Engineering students, I worked with Emory
@@ -133,7 +135,7 @@ function ResearchPage() {
             schedulers enter constraints and generated several optimized schedules designed to
             fill rooms while minimizing gaps between procedures.
           </p>
-          <p className="project-note"><a href="https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678">Emory Healthcare senior design project ↗</a></p>
+          <p className="project-note"><a href="https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678">Senior design project summary</a></p>
         </article>
       </section>
     </>
