@@ -109,8 +109,9 @@ a:focus-visible {
 }
 
 .profile-photo {
+  float: right;
   display: block;
-  width: min(100%, 180px);
+  width: min(100%, 300px);
   aspect-ratio: 1;
   margin: 0 0 24px;
   object-fit: cover;
