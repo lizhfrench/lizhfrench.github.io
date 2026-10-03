@@ -98,6 +98,11 @@ a:focus-visible {
 .page-content em { color: var(--ink-muted); }
 .contact-note { margin-top: 30px !important; font-size: 15px !important; }
 
+.page-content .update-detail {
+  margin-top: -14px;
+  color: #716d78;
+  font-size: 14px;
+}
 
 .page-about { max-width: none; }
 
