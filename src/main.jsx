@@ -83,7 +83,7 @@ function ResearchPage() {
           </p>
           <p className="project-note">
             I’ll present this work on panel 366, “Reworking TechnoPower: Everyday Digital Practices
-            in Marginalized Worlds 1,” at 4S.
+            in Marginalized Worlds” at 4S.
                       </p>
         </article>
       </section>
