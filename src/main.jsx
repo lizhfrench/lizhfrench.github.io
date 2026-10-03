@@ -35,8 +35,8 @@ function AboutPage() {
         Hi, I’m Liz <em>(she/her)</em>! I’m currently a researcher in the Equity & Sustainability in Computing Lab 
         at Georgia Tech's <a href="https://www.ic.gatech.edu/">School of Interactive Computing </a>
         advised by <a href="https://shaowenbardzell.com/">Dr. Shaowen Bardzell</a>. I'm working towards my
-        <a href="https://www.cc.gatech.edu/"></a>M.S. in Computer Science, concentrating in Human-Computer Interaction 
-        (2027), and I also hold a B.S. in Industrial Engineering from <a href="https://www.isye.gatech.edu/">Georgia Tech</a> (2024).
+        <a href="https://www.cc.gatech.edu/"></a> M.S. in Computer Science, concentrating in Human-Computer Interaction 
+        (2027), and I also hold a <a href="https://www.isye.gatech.edu/">B.S. in Industrial Engineering</a> from Georgia Tech (2024).
       </p>
       <p>
         I'm interested in HCI and STS research on labor and platform studies, particularly sex worker advocacy 
