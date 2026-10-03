@@ -46,9 +46,6 @@ function AboutPage() {
         such as OnlyFans and Patreon shapes creators' work. For more insight into my current and past research
         projects, go to <a href="research.html">Research</a>.
       </p>
-      <p>
-        I'm searching for PhD positions starting in the fall of 2027!
-      </p>
       <p className="contact-note">
         You can contact me at <a href="mailto:lizhfrench@gmail.com">lizhfrench [at] gmail [dot] com</a>{' '}
         (personal) or <a href="mailto:efrench6@gatech.edu">efrench6 [at] gatech [dot] edu</a> (academic).
