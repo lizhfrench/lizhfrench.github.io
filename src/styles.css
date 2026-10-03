@@ -137,7 +137,7 @@ a:focus-visible {
 .experience-section h2 {
   margin: 0 0 17px;
   color: var(--blue);
-  font-family: 'DM Mono', monospace;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 15px;
   font-style: italic;
   font-weight: 500;
@@ -162,7 +162,7 @@ a:focus-visible {
 .resume-card { border-top: 1px solid var(--rule); padding-top: 24px; }
 .resume-link { display: inline-flex; align-items: center; gap: 9px; color: var(--pink); font-size: 16px; text-decoration: none; }
 .resume-link:hover { text-decoration: underline; text-underline-offset: 4px; }
-.site-footer { margin-top: auto; padding: 72px 0 26px; color: #9b96a0; font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: .04em; text-align: center; }
+.site-footer { margin-top: auto; padding: 72px 0 26px; color: #9b96a0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;; font-size: 11px; letter-spacing: .04em; text-align: center; }
 
 @media (max-width: 640px) {
   .page-shell { width: min(100% - 40px, 860px); }
