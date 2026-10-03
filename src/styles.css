@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,400;0,500;1,400&family=DM+Sans:ital,opsz,wght@0,400;0,500;0,600;1,400;1,500&display=swap');
 
 :root {
-  font-family: 'DM Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #17151b;
   background: #fffdfb;
   font-synthesis: none;
@@ -40,7 +40,7 @@ a:focus-visible {
 .site-title {
   display: inline-block;
   color: var(--blue);
-  font-family: 'DM Mono', monospace;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: clamp(20px, 3vw, 27px);
   font-style: italic;
   font-weight: 500;
@@ -60,7 +60,7 @@ a:focus-visible {
 
 .site-nav a {
   color: var(--blue);
-  font-family: 'DM Mono', monospace;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-style: italic;
   letter-spacing: .08em;
