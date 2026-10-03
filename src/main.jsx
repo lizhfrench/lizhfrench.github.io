@@ -53,6 +53,24 @@ function AboutPage() {
         You can contact me at <a href="mailto:lizhfrench@gmail.com">lizhfrench [at] gmail [dot] com</a>{' '}
         (personal) or <a href="mailto:efrench6@gatech.edu">efrench6 [at] gatech [dot] edu</a> (academic).
       </p>
+
+      <aside className="updates-panel" aria-labelledby="updates-title">
+        <h2 id="updates-title">Recent updates <span aria-hidden="true">▾</span></h2>
+        <div className="updates-list" tabIndex="0" aria-label="Recent research and conference updates">
+          <article className="update-item">
+            <p><strong>Presenting at 4S</strong> I’ll present on panel 366, “Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds 1.”</p>
+          </article>
+          <article className="update-item">
+            <p><strong>Under review at CHI 2027</strong> I contributed writing to a paper on care and volunteer work in a Chinese eating-disorder mutual-aid group.</p>
+          </article>
+          <article className="update-item">
+            <p><strong>Under review at JAMIA</strong> I co-developed the codebook and coded 500 Reddit threads for a study of an online breast health community.</p>
+          </article>
+          <article className="update-item">
+            <p><strong>Two projects in progress</strong> I’m developing an OnlyFans creator subreddit paper for CSCW 2027 and a related zine pictorial for DIS 2027.</p>
+          </article>
+        </div>
+      </aside>
     </>
   );
 }
@@ -126,7 +144,7 @@ function ResearchPage() {
         </article>
         
         <article className="research-project">
-          <p className="project-kicker">Undergraduate senior design • Emory University Hospital</p>
+          <p className="project-kicker">Team member • Undergraduate senior design</p>
           <h3>Improving interventional radiology scheduling</h3>
           <p>
             With a team of seven other Industrial Engineering students, I worked with Emory
