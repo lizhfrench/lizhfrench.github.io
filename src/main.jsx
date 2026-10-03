@@ -56,7 +56,7 @@ function AboutPage() {
         <h2 id="updates-title">Recent updates <span aria-hidden="true">▾</span></h2>
         <div className="updates-list" tabIndex="0" aria-label="Recent research and conference updates">
           <article className="update-item">
-            <p><strong>Presenting at </strong> I’ll present on panel 366, Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds</p>
+            <p><strong>Presenting at </strong> I’ll present this WIP at 4S in October 2026.</p>
           </article>
           <article className="update-item">
             <p><strong>Under review at CHI 2027</strong> I contributed writing to a paper on care and volunteer work in a Chinese eating-disorder mutual-aid group.</p>
@@ -95,8 +95,7 @@ function ResearchPage() {
             pictorial to DIS 2027.
           </p>
           <p className="project-note">
-            I'll present this work on panel 366, <i>Reworking TechnoPower: Everyday Digital Practices
-            in Marginalized Worlds</i> at 4S.
+            I'll present this WIP at 4S in October 2026.
           </p>
         </article>
       </section>
@@ -161,12 +160,10 @@ function ResearchPage() {
       <section className="research-section" aria-labelledby="other-projects">
         <h2 id="other-projects">Conferences attended</h2>
         <article className="research-project">
-          <p><a href="https://www.4sonline.org/">4S</a> (2026): Toronto, Ontario 
-              <p>Panel 366, <i>Reworking TechnoPower: Everyday Digital Practices
-                in Marginalized Worlds</i>.
-              </p>
-          </p>
-              
+            <p><a href="https://www.4sonline.org/">4S</a> (2026): Toronto, Ontario</p>
+          <p className="update-detail">
+            Panel 366, <i>Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds</i>.
+          </p>   
           <p><a href="https://tapiaconference.cmd-it.org/">Tapia</a> (2026): Atlanta, Georgia</p>
           <p><a href="https://tei.acm.org/2026/">TEI</a> (2026): Chigago, Illinois</p>
           <p><a href="https://ghc.anitab.org/">Grace Hopper Celebration</a> (2023): Orlando, Florida</p>
