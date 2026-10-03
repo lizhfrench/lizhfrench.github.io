@@ -101,7 +101,7 @@ function ResearchPage() {
           <h3>Ordinary Tools, Organized Care: Bounded Mutuality in Eating-Disorder Mutual Aid</h3>
           <p>
             This paper analyzes podcast episodes from a Chinese eating-disorder mutual-aid group.
-            I contributed to the writing. The study describes how members balanced supporting
+            I assisted in the proofreading and writing. The study describes how members balanced supporting
             others with protecting their own recovery, using group supervision and shared reflection
             to make sense of volunteer work and develop knowledge for wider sharing. Contributing
             could also help members find value in their own recovery.
@@ -119,7 +119,8 @@ function ResearchPage() {
             Our team planned a comparative analysis of healthcare AI policy documents from three
             countries. We read and coded the documents for infrastructure, software, actors and
             institutions, and processes and protocols, as well as sector, funding, maturity, and
-            strategic intent. The project ended before the analysis was completed.
+            strategic intent. We also created diagrams and began writing the findings, but the project 
+            was halted before the analysis was completed.
           </p>
           <p className="project-note"><a href="https://miro.com/app/board/uXjVGhpxQqk=/?share_link_id=618290897161">View the project board on Miro</a></p>
         </article>
