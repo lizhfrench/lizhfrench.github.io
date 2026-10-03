@@ -156,6 +156,16 @@ function ResearchPage() {
           <p className="project-note"><a href="https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678">Project summary</a></p>
           <p className="project-note"><a href="https://canva.link/6vbsr0niux0jd1z">Final capstone poster</a></p>
         </article>
+
+        <article className="research-project">
+          <h3>Conferences Attended</h3>
+          <p>4S</p>
+          <p>Tapia</p>
+          <p>TEI</p>
+          <p>Grace Hopper Celebration</p>
+          <p className="project-note"><a href="https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678">Project summary</a></p>
+          <p className="project-note"><a href="https://canva.link/6vbsr0niux0jd1z">Final capstone poster</a></p>
+        </article>
       </section>
     </>
   );
