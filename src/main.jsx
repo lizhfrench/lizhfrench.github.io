@@ -33,13 +33,12 @@ function AboutPage() {
     <>
       <img className="profile-photo" src="/me.png" alt="Portrait" />
       <p>
-        Hi, I'm Liz <em>(she/her)</em>! I'm currently a researcher in the 
-        <a href="https://www.esc-lab.org/">Equity & Sustainability in Computing Lab</a> at Georgia Tech's 
-        <a href="https://www.ic.gatech.edu/">School of Interactive Computing</a> advised by 
-        <a href="https://shaowenbardzell.com/">Dr. Shaowen Bardzell</a>. I'm working towards my 
-        <a href="https://www.cc.gatech.edu/">M.S. in Computer Science</a>, 
-        concentrating in Human-Computer Interaction, and I also hold a 
-        <a href="https://www.isye.gatech.edu/">B.S. in Industrial Engineering</a> from Georgia Tech.
+        Hi, I'm Liz <em>(she/her)</em>! I'm currently a researcher in the <a href="https://www.esc-lab.org/">Equity & Sustainability in Computing Lab</a> at 
+        Georgia Tech's <a href="https://www.ic.gatech.edu/">School of Interactive Computing</a> advised 
+        by <a href="https://shaowenbardzell.com/">Dr. Shaowen Bardzell</a>. I'm 
+        working towards my <a href="https://www.cc.gatech.edu/">M.S. in Computer Science</a>, concentrating 
+        in Human-Computer Interaction, and I also hold a <a href="https://www.isye.gatech.edu/">B.S. 
+          in Industrial Engineering</a> from Georgia Tech.
       </p>
       <p>
         I'm interested in HCI and STS research on labor and platform studies, particularly sex worker advocacy 
