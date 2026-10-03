@@ -161,7 +161,6 @@ function ResearchPage() {
       <section className="research-section" aria-labelledby="other-projects">
         <h2 id="other-projects">Conferences attended</h2>
         <article className="research-project">
-          <h3>Conferences Attended</h3>
           <p><a href="https://www.4sonline.org/">4S</a> (2026): Toronto, Ontario</p>
           <p><a href="https://tapiaconference.cmd-it.org/">Tapia</a> (2026): Atlanta, Georgia</p>
           <p><a href="https://tei.acm.org/2026/">TEI</a> (2026): Chigago, Illinois</p>
