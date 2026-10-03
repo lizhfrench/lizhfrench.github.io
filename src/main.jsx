@@ -153,7 +153,7 @@ function ResearchPage() {
             strategic intent. We also created diagrams and began writing the findings, but the project 
             was halted before the analysis was completed.
           </p>
-          <p className="project-note"><a href="https://miro.com/app/board/uXjVGhpxQqk=/?share_link_id=618290897161">View the project board on Miro</a></p>
+          <p className="project-note"><a href="https://miro.com/app/board/uXjVGhpxQqk=/?share_link_id=618290897161">System diagrams board</a></p>
         </article>
         
         <article className="research-project">
