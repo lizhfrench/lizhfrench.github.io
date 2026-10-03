@@ -90,8 +90,8 @@ function ResearchPage() {
           <p className="project-kicker">Second author • Under review at JAMIA</p>
           <h3>From Symptom Appraisal to Treatment Preparation: Expressed Needs and Peer Support in an Online Breast Health Community</h3>
           <p>
-            For this study of a breast health community on Reddit, I helped the first author develop
-            the codebook and coded 500 threads; the first author and I each coded 500 threads.
+            For this study of a breast health community on Reddit (r/doihavebreastcancer), I helped the first author develop
+            the codebook; the first author and I each coded 500 threads.
           </p>
           <p className="project-note">Submitted to the Journal of the American Medical Informatics Association (JAMIA).</p>
         </article>
