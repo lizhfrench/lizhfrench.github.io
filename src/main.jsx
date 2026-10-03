@@ -35,14 +35,14 @@ function AboutPage() {
         Hi, I’m Liz <em>(she/her)</em>! I’m currently a researcher in the Equity & Sustainability in Computing Lab 
         at Georgia Tech's <a href="https://www.ic.gatech.edu/">School of Interactive Computing </a>
         advised by <a href="https://shaowenbardzell.com/">Dr. Shaowen Bardzell</a>. I'm working towards my
-         <a href="https://www.cc.gatech.edu/"> M.S. in Computer Science</a>, concentrating in Human-Computer Interaction 
-        (2027), and I also hold a <a href="https://www.isye.gatech.edu/">B.S. in Industrial Engineering</a> from Georgia Tech (2024).
+        <a href="https://www.cc.gatech.edu/"> M.S. in Computer Science</a>, concentrating in Human-Computer Interaction, 
+        and I also hold a <a href="https://www.isye.gatech.edu/">B.S. in Industrial Engineering</a> from Georgia Tech.
       </p>
       <p>
         I'm interested in HCI and STS research on labor and platform studies, particularly sex worker advocacy 
         and sex education. I want to examine how intimate labor affects workers and their relationships, how 
         sex workers organize and advocate for their rights, including through collective and unionizing efforts, 
-        and how this labor is discussed in online spaces. I’m also interested in how content moderation on platforms 
+        and how this labor is discussed in online spaces. I'm also interested in how content moderation on platforms 
         such as OnlyFans and Patreon shapes creators' work. For more insight into my current and past research
         projects, go to <a href="research.html">Research</a>.
       </p>
@@ -63,7 +63,7 @@ function ResearchPage() {
       <p>
         My research sits at the intersection of human-computer interaction and science and technology
         studies. I study how people build relationships, care, and community through digital platforms
-        and institutions. I’m part of the <a href="https://www.esc-lab.org/">Equity &amp; Sustainability
+        and institutions. I'm part of the <a href="https://www.esc-lab.org/">Equity &amp; Sustainability
         in Computing (ESCape) Lab</a> at Georgia Tech.
       </p>
      <section className="research-section" aria-labelledby="current-projects">
@@ -74,12 +74,12 @@ function ResearchPage() {
           <p>
             This project examines a subreddit for OnlyFans creators and how members understand and
             relate to themselves, their bodies, and one another. The paper is planned for submission
-            to CSCW 2027. I’m also developing a zine from this work, planned for submission as a
+            to CSCW 2027. I'm also developing a zine from this work, planned for submission as a
             pictorial to DIS 2027; I’m first author on both projects.
           </p>
           <p className="project-note">
-            I’ll present this work on panel 366, “Reworking TechnoPower: Everyday Digital Practices
-            in Marginalized Worlds” at 4S.
+            I'll present this work on panel 366, "Reworking TechnoPower: Everyday Digital Practices
+            in Marginalized Worlds" at 4S.
           </p>
         </article>
       </section>
