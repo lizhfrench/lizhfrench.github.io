@@ -125,8 +125,8 @@ function ResearchPage() {
           </p>
           <p className="project-note">Submitted to Conference on Human Factors in Computing Systems (CHI) 2027.</p>
         </article>
-        
       </section>
+      
       <section className="research-section" aria-labelledby="other-projects">
         <h2 id="other-projects">Other projects</h2>
         <article className="research-project">
@@ -156,15 +156,16 @@ function ResearchPage() {
           <p className="project-note"><a href="https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678">Project summary</a></p>
           <p className="project-note"><a href="https://canva.link/6vbsr0niux0jd1z">Final capstone poster</a></p>
         </article>
-
+      </section>
+      
+      <section className="research-section" aria-labelledby="other-projects">
+        <h2 id="other-projects">Conferences attended</h2>
         <article className="research-project">
           <h3>Conferences Attended</h3>
-          <p>4S</p>
-          <p>Tapia</p>
-          <p>TEI</p>
-          <p>Grace Hopper Celebration</p>
-          <p className="project-note"><a href="https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678">Project summary</a></p>
-          <p className="project-note"><a href="https://canva.link/6vbsr0niux0jd1z">Final capstone poster</a></p>
+          <p><a href="https://www.4sonline.org/">4S</a> (2026): Toronto, Ontario</p>
+          <p><a href="https://tapiaconference.cmd-it.org/">Tapia</a> (2026): Atlanta, Georgia</p>
+          <p><a href="https://tei.acm.org/2026/">TEI</a> (2026): Chigago, Illinois</p>
+          <p><a href="https://ghc.anitab.org/">Grace Hopper Celebration</a> (2023): Orlando, Florida</p>
         </article>
       </section>
     </>
