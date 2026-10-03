@@ -58,7 +58,7 @@ function AboutPage() {
         <h2 id="updates-title">Recent updates <span aria-hidden="true">▾</span></h2>
         <div className="updates-list" tabIndex="0" aria-label="Recent research and conference updates">
           <article className="update-item">
-            <p><strong>Presenting at 4S</strong> I’ll present on panel 366, “Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds 1.”</p>
+            <p><strong>Presenting at 4S</strong> I’ll present on panel 366, Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds</p>
           </article>
           <article className="update-item">
             <p><strong>Under review at CHI 2027</strong> I contributed writing to a paper on care and volunteer work in a Chinese eating-disorder mutual-aid group.</p>
