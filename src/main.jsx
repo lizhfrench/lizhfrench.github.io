@@ -98,6 +98,21 @@ function ResearchPage() {
             I'll present this WIP at 4S in October 2026.
           </p>
         </article>
+       
+       <article className="research-project">
+          <p className="project-kicker">Co-first author • Work in progress</p>
+          <h3>Mapping AI policy across countries</h3>
+          <p>
+            This project builds on findings from our AI in healthcare policy analysis, described below. 
+            We’re expanding the scope from healthcare policy documents in low- and middle-income (LMIC) countries 
+            to AI policy documents from countries around the world. We plan to create an interactive map and 
+            an in-person exhibit on Georgia Tech’s campus, where visitors can explore how AI policy varies 
+            across countries. We plan to submit the project to DIS 2028.
+          </p>
+          <p className="project-note">
+            This project is set to begin in spring 2027.
+          </p>
+        </article>
       </section>
 
       <section className="research-section" aria-labelledby="papers-under-review">
