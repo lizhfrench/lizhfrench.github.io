@@ -80,9 +80,8 @@ function ResearchPage() {
     <>
       <p>
         My research sits at the intersection of human-computer interaction and science and technology
-        studies. I study how people build relationships, care, and community through digital platforms
-        and institutions. I'm part of the <a href="https://www.esc-lab.org/">Equity &amp; Sustainability
-        in Computing (ESCape) Lab</a> at Georgia Tech.
+        studies. I study how intimate labor affects those who participate in and with it and how workers organize themselves.
+        I currently conduct my work in online communities but I plan to do in person work as well.
       </p>
      <section className="research-section" aria-labelledby="current-projects">
         <h2 id="current-projects">Current research</h2>
