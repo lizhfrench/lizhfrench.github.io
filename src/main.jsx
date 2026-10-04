@@ -121,8 +121,11 @@ function ResearchPage() {
           <p className="project-kicker">Second author • Under review at JAMIA</p>
           <h3>From Symptom Appraisal to Treatment Preparation: Expressed Needs and Peer Support in an Online Breast Health Community</h3>
           <p>
-            For this study of a breast health community on Reddit (r/doihavebreastcancer), I helped the first author develop
-            the codebook; the first author and I each coded 500 threads.
+            For this study of a breast health community on Reddit (r/doihavebreastcancer), I helped the first author develop the codebook; 
+            the first author and I each coded 500 threads. We found that what people ask for shifts over time: earlier posts ask what a 
+            symptom or finding means, while later ones center on procedures, next steps, and emotional relief. We also found that getting 
+            a reply isn't the same as getting the support a post calls for. Among 100 threads about reading clinical reports, 32 received 
+            a human reply, but only 13 contained informational support.
           </p>
           <p className="project-note">Submitted to the Journal of the American Medical Informatics Association (JAMIA).</p>
         </article>
