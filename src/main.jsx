@@ -223,12 +223,12 @@ function ExperiencePage() {
 
 function ResumePage() {
   return (
-    <section className="resume-card">
+    // <section className="resume-card">
       <p>View or download my current resume.</p>
       <a className="resume-link" href={resumeUrl} target="_blank" rel="noreferrer">
         Open resume <span aria-hidden="true"></span>
       </a>
-    </section>
+    // </section>
   );
 }
 
