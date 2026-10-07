@@ -180,7 +180,7 @@ function ResearchPage() {
         <article className="research-project">
             <p><a href="https://www.4sonline.org/">4S</a> (2026): Toronto, Ontario</p>
           <p className="update-detail">
-            Panel 366, <i>Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds</i>.
+            Panel 339, <i>Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds 1</i>.
           </p>   
           <p><a href="https://tapiaconference.cmd-it.org/">Tapia</a> (2026): Atlanta, Georgia</p>
           <p><a href="https://tei.acm.org/2026/">TEI</a> (2026): Chigago, Illinois</p>
