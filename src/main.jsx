@@ -95,7 +95,7 @@ function ResearchPage() {
             pictorial to DIS 2027.
           </p>
           <p className="project-note">
-            <a href="https://docs.google.com/presentation/d/1cZwAj12AU4ynE7tBkQ9FCrAM6dFuebfG/edit?usp=sharing&ouid=102335579661304907737&rtpof=true&sd=true">See my panel slides I presented at 4S.</a>
+            <a href="https://docs.google.com/presentation/d/1cZwAj12AU4ynE7tBkQ9FCrAM6dFuebfG/edit?usp=sharing&ouid=102335579661304907737&rtpof=true&sd=true">4S presentation slides</a>
           </p>
         </article>
        
@@ -180,7 +180,7 @@ function ResearchPage() {
         <article className="research-project">
             <p><a href="https://www.4sonline.org/">4S</a> (2026): Toronto, Ontario</p>
           <p className="update-detail">
-            Panel 339, <i>Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds 1</i>.
+            Panel, <i>Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds</i>.
           </p>   
           <p><a href="https://tapiaconference.cmd-it.org/">Tapia</a> (2026): Atlanta, Georgia</p>
           <p><a href="https://tei.acm.org/2026/">TEI</a> (2026): Chigago, Illinois</p>
