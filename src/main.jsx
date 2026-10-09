@@ -95,7 +95,7 @@ function ResearchPage() {
             pictorial to DIS 2027.
           </p>
           <p className="project-note">
-            I'll present this WIP at 4S in October 2026.
+            <a href="https://docs.google.com/presentation/d/1cZwAj12AU4ynE7tBkQ9FCrAM6dFuebfG/edit?usp=sharing&ouid=102335579661304907737&rtpof=true&sd=true">See my panel slides I presented at 4S.</a>
           </p>
         </article>
        
