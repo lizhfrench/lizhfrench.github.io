@@ -193,16 +193,16 @@ function ResearchPage() {
 
 const experience = {
   Research: [
-    ['ESCape Lab at Georgia Tech', 'Graduate Researcher', 'Aug 2025 – Present', 'https://www.esc-lab.org/'],
-    ['Emory University Hospital', 'Senior Design', 'May – Dec 2024', 'https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678'],
-    ['HumaniTech VIP at Georgia Tech', 'Undergraduate Researcher', 'Jan 2022 – May 2022', 'https://vip.gatech.edu/teams/entry/1323/'],
+    ['ESCape Lab at Georgia Tech', 'Graduate Researcher', 'August 2025 – Present', 'https://www.esc-lab.org/'],
+    ['Emory University Hospital', 'Senior Design', 'May – December 2024', 'https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678'],
+    ['HumaniTech VIP at Georgia Tech', 'Undergraduate Researcher', 'January – May 2022', 'https://vip.gatech.edu/teams/entry/1323/'],
   ],
   Industry: [
     ['Flaire', 'Product Manager Intern', 'Aug – Nov 2025', 'https://www.linkedin.com/company/flairehq/posts/?feedView=all'],
-    ['The Osprey Group', 'Product Manager Intern', 'Jun – Aug 2025', 'https://flywithosprey.com/'],
-    ['U.S. Bank', 'Product Manager Intern', 'Jun – Aug 2024', 'https://www.usbank.com/business-banking/payment-solutions.html'],
-    ['Honeywell', 'Software Engineer Intern', 'Aug – Dec 2023', 'https://www.honeywellaerospace.com/us/en/solutions/innovation/connectivity'],
-    ['Georgia-Pacific', 'Analyst Intern', 'May – Aug 2023', 'https://www.gppackaging.com/'],
+    ['The Osprey Group', 'Product Manager Intern', 'June – August 2025', 'https://flywithosprey.com/'],
+    ['U.S. Bank', 'Product Manager Intern', 'June – August 2024', 'https://www.usbank.com/business-banking/payment-solutions.html'],
+    ['Honeywell', 'Software Engineer Intern', 'August – December 2023', 'https://www.honeywellaerospace.com/us/en/solutions/innovation/connectivity'],
+    ['Georgia-Pacific', 'Analyst Intern', 'May – August 2023', 'https://www.gppackaging.com/'],
   ],
 };
 
