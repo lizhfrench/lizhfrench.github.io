@@ -198,7 +198,7 @@ const experience = {
     ['HumaniTech VIP at Georgia Tech', 'Undergraduate Researcher', 'January – May 2022', 'https://vip.gatech.edu/teams/entry/1323/'],
   ],
   Industry: [
-    ['Flaire', 'Product Manager Intern', 'Aug – Nov 2025', 'https://www.linkedin.com/company/flairehq/posts/?feedView=all'],
+    ['Flaire', 'Product Manager Intern', 'August – November 2025', 'https://www.linkedin.com/company/flairehq/posts/?feedView=all'],
     ['The Osprey Group', 'Product Manager Intern', 'June – August 2025', 'https://flywithosprey.com/'],
     ['U.S. Bank', 'Product Manager Intern', 'June – August 2024', 'https://www.usbank.com/business-banking/payment-solutions.html'],
     ['Honeywell', 'Software Engineer Intern', 'August – December 2023', 'https://www.honeywellaerospace.com/us/en/solutions/innovation/connectivity'],
