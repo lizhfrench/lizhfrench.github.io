@@ -226,9 +226,8 @@ function ExperiencePage() {
 function ResumePage() {
   return (
     <>
-      <p>View or download my current resume (updated October 2026).</p>
       <a className="resume-link" href={resumeUrl} target="_blank" rel="noreferrer">
-        Open resume <span aria-hidden="true"></span>
+        View my current resume (updated October 2026) <span aria-hidden="true"></span>
       </a>
     </>
   );
