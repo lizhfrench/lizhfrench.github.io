@@ -49,38 +49,15 @@ function AboutPage() {
         projects, go to <a href="research.html">Research</a>.
       </p>
       <p className="contact-note">
-        You can contact me at <a href="mailto:lizhfrench@gmail.com">lizhfrench [at] gmail [dot] com</a>{' '}
-        (personal) or <a href="mailto:efrench6@gatech.edu">efrench6 [at] gatech [dot] edu</a> (academic).
+        You can contact me at efrench6 [at] gatech [dot] edu.
       </p>
- {/* 
-      <aside className="updates-panel" aria-labelledby="updates-title">
-        <h2 id="updates-title">Recent updates <span aria-hidden="true">▾</span></h2>
-        <div className="updates-list" tabIndex="0" aria-label="Recent research and conference updates">
-          <article className="update-item">
-            <p><strong>Presenting at </strong> I’ll present this WIP at 4S in October 2026.</p>
-          </article>
-          <article className="update-item">
-            <p><strong>Under review at CHI 2027</strong> I contributed writing to a paper on care and volunteer work in a Chinese eating-disorder mutual-aid group.</p>
-          </article>
-          <article className="update-item">
-            <p><strong>Under review at JAMIA</strong> I co-developed the codebook and coded 500 Reddit threads for a study of an online breast health community.</p>
-          </article>
-          <article className="update-item">
-            <p><strong>Two projects in progress</strong> I’m developing an OnlyFans creator subreddit paper for CSCW 2027 and a related zine pictorial for DIS 2027.</p>
-          </article>
-        </div>
-      </aside>
-  */}
-    </>
-  );
-}
 
 function ResearchPage() {
   return (
     <>
       <p>
-        My research sits at the intersection of human-computer interaction and science and technology
-        studies. I study how intimate labor affects those who participate in and with it and how workers organize themselves.
+        My research sits at the intersection of human-computer interaction (HCI) and science and technology
+        studies (STS). I study how intimate labor affects those who participate in it and how workers organize themselves.
         I currently conduct my work in online communities but I plan to do in person work as well.
       </p>
      <section className="research-section" aria-labelledby="current-projects">
@@ -89,10 +66,10 @@ function ResearchPage() {
           <p className="project-kicker">First author • Work in progress</p>
           <h3>OnlyFans creators, bodies, and relationships on Reddit</h3>
           <p>
-            This project examines a subreddit for OnlyFans creators and how members understand and
+            This project examines a subreddit for OnlyFans creators: how members understand and
             relate to themselves, their bodies, and one another. The paper is planned for submission
-            to CSCW 2027. I'm also developing a zine from this work, planned for submission as a
-            pictorial to DIS 2027.
+            to <strong>CSCW 2027</strong>. I presented this work on a panel at 4S. I'm also developing 
+            a zine from this work, planned for submission as a pictorial to <strong>DIS 2027</strong>.
           </p>
           <p className="project-note">
             <a href="https://docs.google.com/presentation/d/1cZwAj12AU4ynE7tBkQ9FCrAM6dFuebfG/edit?usp=sharing&ouid=102335579661304907737&rtpof=true&sd=true">4S presentation slides</a>
@@ -107,7 +84,7 @@ function ResearchPage() {
             We’re expanding the scope from healthcare policy documents in low- and middle-income (LMIC) countries 
             to AI policy documents from countries around the world. We plan to create an interactive map and 
             an in-person exhibit on Georgia Tech’s campus, where visitors can explore how AI policy varies 
-            across countries. We plan to submit the project to DIS 2028.
+            across countries. We plan to submit the project to <strong>DIS 2028</strong>.
           </p>
           <p className="project-note">
             This project will be continued in spring 2027.
@@ -183,7 +160,7 @@ function ResearchPage() {
             Panel, <i>Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds</i>.
           </p>   
           <p><a href="https://tapiaconference.cmd-it.org/">Tapia</a> (2026): Atlanta, Georgia</p>
-          <p><a href="https://tei.acm.org/2026/">TEI</a> (2026): Chigago, Illinois</p>
+          <p><a href="https://tei.acm.org/2026/">TEI</a> (2026): Chicago, Illinois</p>
           <p><a href="https://ghc.anitab.org/">Grace Hopper Celebration</a> (2023): Orlando, Florida</p>
         </article>
       </section>
