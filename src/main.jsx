@@ -51,7 +51,9 @@ function AboutPage() {
       <p className="contact-note">
         You can contact me at efrench6 [at] gatech [dot] edu.
       </p>
-)
+    </>
+  );
+}
       
 function ResearchPage() {
   return (
