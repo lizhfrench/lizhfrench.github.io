@@ -2,7 +2,7 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 import './styles.css';
 
-const resumeUrl = 'https://drive.google.com/file/d/1sqtqyyM4PbYjt4Prljh08WzzL98glF2V/view?usp=sharing';
+const resumeUrl = 'https://drive.google.com/file/d/1B-FvJZQyGfJ-Ghhu-1PzXcrniEIs6ICM/view?usp=sharing';
 
 const navigation = [
   { id: 'about', label: 'About', href: 'index.html' },
