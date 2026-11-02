@@ -2,6 +2,10 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 import './styles.css';
 
+/* ------------------------------------------------------------------ */
+/* Data                                                                */
+/* ------------------------------------------------------------------ */
+
 const resumeUrl =
   'https://drive.google.com/file/d/1B-FvJZQyGfJ-Ghhu-1PzXcrniEIs6ICM/view?usp=sharing';
 
@@ -40,6 +44,9 @@ const experience = {
   ],
 };
 
+/* ------------------------------------------------------------------ */
+/* Shared components                                                   */
+/* ------------------------------------------------------------------ */
 
 function SiteHeader({ page }) {
   return (
@@ -57,6 +64,10 @@ function SiteHeader({ page }) {
     </header>
   );
 }
+
+/* ------------------------------------------------------------------ */
+/* Pages                                                               */
+/* ------------------------------------------------------------------ */
 
 function AboutPage() {
   return (
@@ -81,9 +92,11 @@ function AboutPage() {
         and their relationships, how sex workers organize and advocate for their rights, including
         through collective and unionizing efforts, and how this labor is discussed in online
         spaces. I'm also interested in how content moderation on platforms such as OnlyFans and
-        Patreon shapes creators' work. For more insight into my current and past research
+        Patreon shapes creators' work. For more insight into my ongoing and past research
         projects, go to <a href="research.html">Research</a>.
       </p>
+
+      <p className="contact-note">You can contact me via <a href="https://www.linkedin.com/in/elizabethfrench1/">LinkedIn</href> or email at efrench6 [at] gatech [dot] edu.</p>
 
       <section className="news-section" aria-labelledby="recent-news">
         <div className="news-header">
@@ -99,7 +112,6 @@ function AboutPage() {
         </ul>
       </section>
 
-      <p className="contact-note">You can contact me at efrench6 [at] gatech [dot] edu.</p>
     </>
   );
 }
@@ -281,6 +293,9 @@ function ResumePage() {
   );
 }
 
+/* ------------------------------------------------------------------ */
+/* App                                                                 */
+/* ------------------------------------------------------------------ */
 
 const pageComponents = {
   about: AboutPage,
