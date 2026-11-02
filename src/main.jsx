@@ -49,23 +49,25 @@ function AboutPage() {
         projects, go to <a href="research.html">Research</a>.
       </p>
 
-      <section class="news-section">
-        <div class="news-header">
+      <section className="news-section">
+        <div className="news-header">
           <h2>Recent News</h2>
-          <a href="#">See all</a>   <!-- delete this link if you don't have an archive page -->
+          <a href="#">See all</a> {/* delete this link if you don't have an archive page */}
         </div>
-        <ul class="news-list">
+        <ul className="news-list">
           <li>
-            <span class="news-date">10/2026</span>
-            <span class="news-text">Your update here, with an optional <a href="#">link</a>.</span>
+            <span className="news-date">10/2026</span>
+            <span className="news-text">
+              Your update here, with an optional <a href="#">link</a>.
+            </span>
           </li>
           <li>
-            <span class="news-date">09/2026</span>
-            <span class="news-text">Another update.</span>
+            <span className="news-date">09/2026</span>
+            <span className="news-text">Another update.</span>
           </li>
           <li>
-            <span class="news-date">05/2026</span>
-            <span class="news-text">Another update.</span>
+            <span className="news-date">05/2026</span>
+            <span className="news-text">Another update.</span>
           </li>
         </ul>
       </section>
@@ -73,6 +75,7 @@ function AboutPage() {
       <p className="contact-note">
         You can contact me at efrench6 [at] gatech [dot] edu.
       </p>
+      
     </>
   );
 }
