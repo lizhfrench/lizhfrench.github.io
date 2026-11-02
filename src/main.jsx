@@ -29,7 +29,7 @@ const news = [
   { date: '09/2026', text: 'Attended Tapia.' },
   { date: '03/2026', text: 'Attended TEI.' },
   { date: '09/2025', text: 'Joined the ESCape Lab.' },
-  { date: '08/2025', text: 'Stated my Master's.' },
+  { date: '08/2025', text: "Started my Master's in CS & HCI." },
 ];
 
 const experience = {
