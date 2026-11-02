@@ -129,6 +129,18 @@ a:focus-visible {
   object-fit: cover;
 }
 
+.page-content .greeting { margin-bottom: 22px; }
+
+.pronouns {
+  display: block;
+  margin-top: -2px;
+  color: var(--ink-muted);
+  font-size: 12px;
+  font-style: italic;
+  letter-spacing: .06em;
+  line-height: 1.2;
+}
+
 /* Recent news */
 .news-section {
   clear: both;
