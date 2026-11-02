@@ -111,7 +111,7 @@ function AboutPage() {
 
       <section className="news-section" aria-labelledby="recent-news">
         <div className="news-header">
-          <h2 id="recent-news">Recent News</h2>
+          <h2 id="recent-news">Updates</h2>
         </div>
         <ul className="news-list">
           {news.map(({ date, text }) => (
