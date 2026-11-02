@@ -235,6 +235,12 @@ a:focus-visible {
 .site-footer { margin-top: auto; padding: 72px 0 26px; color: #9b96a0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;; font-size: 11px; letter-spacing: .04em; text-align: center; }
 
 @media (max-width: 640px) {
+  .profile-photo {
+    float: none;          
+    width: 100%;
+    max-width: 320px;
+    margin: 0 0 24px 0;   
+  }
   .page-shell { width: min(100% - 40px, 860px); }
   .site-header { margin-bottom: 52px; }
   .site-nav { gap: 10px 17px; }
