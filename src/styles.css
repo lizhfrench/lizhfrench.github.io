@@ -290,6 +290,7 @@ a:focus-visible {
     max-width: 220px;
     margin: 0 auto 24px;  
   }
+  .news-list li { grid-template-columns: 1fr; }
   .page-shell { width: min(100% - 40px, 860px); }
   .site-header { margin-bottom: 52px; }
   .site-nav { gap: 10px 17px; }
