@@ -96,7 +96,7 @@ function AboutPage() {
         projects, go to <a href="research.html">Research</a>.
       </p>
 
-      <p className="contact-note">You can contact me via <a href="https://www.linkedin.com/in/elizabethfrench1/">LinkedIn</href> or email at efrench6 [at] gatech [dot] edu.</p>
+      <p className="contact-note">You can contact me via <a href="https://www.linkedin.com/in/elizabethfrench1/">LinkedIn</a> or email at efrench6 [at] gatech [dot] edu.</p>
 
       <section className="news-section" aria-labelledby="recent-news">
         <div className="news-header">
