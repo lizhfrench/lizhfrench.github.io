@@ -129,6 +129,8 @@ function ResearchPage() {
         but I plan to do in person work as well.
       </p>
 
+      <p>See my <a href="https://www.are.na/liz-french">Are.na</a> here!</p>
+
       <section className="research-section" aria-labelledby="current-projects">
         <h2 id="current-projects">Current research</h2>
 
