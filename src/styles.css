@@ -65,7 +65,8 @@ a:focus-visible {
   text-decoration: none;
 }
 
-.site-title span { color: var(--blue); }
+.site-title span { transition: color 150ms ease; }
+.site-title:hover span { color: var(--pink); }
 
 .site-nav {
   display: flex;
