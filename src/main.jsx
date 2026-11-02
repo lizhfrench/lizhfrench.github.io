@@ -25,7 +25,15 @@ const news = [
       </>
     ),
   },
-  { date: '10/2026', text: "Attended 4S and presented on a panel, <i>Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds.</i>." },
+  {
+    date: '10/2026',
+    text: (
+      <>
+        Attended 4S and presented on a panel,{' '}
+        <i>Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds</i>.
+      </>
+    ),
+  },
   { date: '09/2026', text: "Attended Tapia." },
   { date: '03/2026', text: "Attended TEI." },
   { date: '09/2025', text: "Joined the ESCape Lab." },
