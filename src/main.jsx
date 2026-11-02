@@ -21,12 +21,15 @@ const news = [
     date: '10/2026',
     text: (
       <>
-        Your update here, with an optional <a href="#">link</a>.
+        Joined the <a href="https://feministmediastudio.ca/">Feminst Media Studio</a>.
       </>
     ),
   },
-  { date: '09/2026', text: 'Another update.' },
-  { date: '05/2026', text: 'Another update.' },
+  { date: '10/2026', text: 'Attended 4S and presented on a panel.' },
+  { date: '09/2026', text: 'Attended Tapia.' },
+  { date: '03/2026', text: 'Attended TEI.' },
+  { date: '09/2025', text: 'Joined the ESCape Lab.' },
+  { date: '08/2025', text: 'Stated my Master's.' },
 ];
 
 const experience = {
