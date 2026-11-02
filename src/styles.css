@@ -238,7 +238,7 @@ a:focus-visible {
 
 .experience-list li {
   display: grid;
-  grid-template-columns: minmax(150px, 1fr) minmax(170px, 1fr) auto;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) 190px;
   gap: 8px 20px;
   align-items: baseline;
   padding: 14px 0;
