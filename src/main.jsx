@@ -84,9 +84,14 @@ function AboutPage() {
   return (
     <>
       <img className="profile-photo" src="/me.png" alt="Portrait of Liz French" />
-
+      
+      <p className="greeting">
+          Hello, I'm Liz!
+          <span className="pronouns">she/her</span>
+      </p>
+      
       <p>
-        Hello, I'm Liz! I'm currently a researcher in the{' '}
+        I'm currently a researcher in the{' '}
         <a href="https://www.esc-lab.org/">Equity &amp; Sustainability in Computing Lab</a> at
         Georgia Tech's{' '}
         <a href="https://www.ic.gatech.edu/">School of Interactive Computing</a> advised by{' '}
