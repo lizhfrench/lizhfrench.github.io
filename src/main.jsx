@@ -49,6 +49,15 @@ function AboutPage() {
         projects, go to <a href="research.html">Research</a>.
       </p>
 
+      <ul className="news-list">
+        {news.map(({ date, text }) => (
+          <li key={date + String(text).slice(0, 10)}>
+            <span className="news-date">{date}</span>
+            <span className="news-text">{text}</span>
+          </li>
+        ))}
+      </ul>
+
       <section className="news-section">
         <div className="news-header">
           <h2>Recent News</h2>
