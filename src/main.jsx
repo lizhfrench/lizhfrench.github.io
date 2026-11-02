@@ -25,10 +25,10 @@ const news = [
       </>
     ),
   },
-  { date: '10/2026', text: 'Attended 4S and presented on a panel.' },
-  { date: '09/2026', text: 'Attended Tapia.' },
-  { date: '03/2026', text: 'Attended TEI.' },
-  { date: '09/2025', text: 'Joined the ESCape Lab.' },
+  { date: '10/2026', text: "Attended 4S and presented on a panel, <i>Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds.</i>." },
+  { date: '09/2026', text: "Attended Tapia." },
+  { date: '03/2026', text: "Attended TEI." },
+  { date: '09/2025', text: "Joined the ESCape Lab." },
   { date: '08/2025', text: "Started my Master's in CS & HCI." },
 ];
 
@@ -246,29 +246,7 @@ function ResearchPage() {
           </p>
         </article>
       </section>
-
-      <section className="research-section" aria-labelledby="conferences">
-        <h2 id="conferences">Conferences attended</h2>
-
-        <article className="research-project">
-          <p>
-            <a href="https://www.4sonline.org/">4S</a> (2026): Toronto, Ontario
-          </p>
-          <p className="update-detail">
-            Panel, <i>Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds</i>.
-          </p>
-          <p>
-            <a href="https://tapiaconference.cmd-it.org/">Tapia</a> (2026): Atlanta, Georgia
-          </p>
-          <p>
-            <a href="https://tei.acm.org/2026/">TEI</a> (2026): Chicago, Illinois
-          </p>
-          <p>
-            <a href="https://ghc.anitab.org/">Grace Hopper Celebration</a> (2023): Orlando,
-            Florida
-          </p>
-        </article>
-      </section>
+      
     </>
   );
 }
