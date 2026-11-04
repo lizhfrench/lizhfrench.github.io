@@ -250,10 +250,9 @@ function ResearchPage() {
             designed to fill rooms while minimizing gaps between procedures.
           </p>
           <p className="project-note">
-            <a href="https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678">
-              Project summary
-            </a>
+            <a href="https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678">Project summary</a>
           </p>
+          <br></br>
           <p className="project-note">
             <a href="https://canva.link/6vbsr0niux0jd1z">Final capstone poster</a>
           </p>
