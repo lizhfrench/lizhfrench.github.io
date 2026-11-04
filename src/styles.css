@@ -220,10 +220,17 @@ a:focus-visible {
 }
 
 .research-project .project-note {
-  margin-top: -8px;
+  /*margin-top: -8px;
   color: var(--ink-muted);
   font-size: 14px;
   line-height: 1.65;
+  display: inline-block; */
+  background-color: #fff3b0;  /* soft yellow */
+  color: #3a3200;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.95em;
+  font-style: italic;
 }
 
 .page-content .update-detail {
