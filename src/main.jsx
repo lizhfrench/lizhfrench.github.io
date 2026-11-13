@@ -183,7 +183,7 @@ function ResearchPage() {
         <h2 id="papers-under-review">Papers under review</h2>
 
         <article className="research-project">
-          <p className="project-kicker">Second author • Under review at JAMIA</p>
+          <p className="project-kicker">Second author • Under review at JMIR</p>
           <h3>
             From Symptom Appraisal to Treatment Preparation: Expressed Needs and Peer Support in
             an Online Breast Health Community
@@ -198,7 +198,7 @@ function ResearchPage() {
             received a human reply, but only 13 contained informational support.
           </p>
           <p className="project-note">
-            Submitted to the Journal of the American Medical Informatics Association (JAMIA).
+            Submitted to the Journal of Medical Internet Research (JMIR).
           </p>
         </article>
 
