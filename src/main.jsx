@@ -185,8 +185,7 @@ function ResearchPage() {
         <article className="research-project">
           <p className="project-kicker">Second author • Under review at JMIR</p>
           <h3>
-            From Symptom Appraisal to Treatment Preparation: Expressed Needs and Peer Support in
-            an Online Breast Health Community
+            Expressed Needs and Peer Support Before Breast Cancer Diagnosis and Treatment on Reddit: Content Analysis.
           </h3>
           <p>
             For this study of a breast health community on Reddit (r/doihavebreastcancer), I
@@ -283,7 +282,7 @@ function ExperiencePage() {
 function ResumePage() {
   return (
     <a className="resume-link" href={resumeUrl} target="_blank" rel="noreferrer">
-      View my current resume (updated October 2026)
+      View my current resume (updated November 2026)
     </a>
   );
 }
