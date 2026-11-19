@@ -185,7 +185,7 @@ function ResearchPage() {
         <article className="research-project">
           <p className="project-kicker">Second author • Under review at JMIR</p>
           <h3>
-            Expressed Needs and Peer Support Before Breast Cancer Diagnosis and Treatment on Reddit: Content Analysis.
+            Expressed Needs and Peer Support Before Breast Cancer Diagnosis and Treatment on Reddit: Content Analysis
           </h3>
           <p>
             For this study of a breast health community on Reddit (r/doihavebreastcancer), I
