@@ -83,7 +83,7 @@ function SiteHeader({ page }) {
 function AboutPage() {
   return (
     <>
-      <img className="profile-photo" src="/me2.png" />
+      <img className="profile-photo" src="/me.png"/>
       
       <p className="greeting">
           Hello, I'm Liz!
