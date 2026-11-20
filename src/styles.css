@@ -123,10 +123,11 @@ a:focus-visible {
   float: right;
   display: block;
   width: min(100%, 300px);
-  aspect-ratio: 2/3;
+  aspect-ratio: 5/6;
   margin: 0 0 28px 28px;
   border-radius: 8px;
   object-fit: cover;
+  object-position: 50% 100%;
 }
 
 .page-content .greeting { margin-bottom: 22px; }
