@@ -359,7 +359,6 @@ a:focus-visible {
 
 @media (max-width: 640px) {
   .page-shell { width: min(100% - 40px, 860px); }
-  /* .site-header { margin-bottom: 52px; } */
  .site-header {
   padding-top: clamp(38px, 8vh, 76px);
   margin-bottom: clamp(40px, 7vh, 65px);
@@ -368,10 +367,11 @@ a:focus-visible {
 
   /* Stack the photo above the text and center it */
   .profile-photo {
-    float: left;
+    float: none;
+    display: block;
     width: 100%;
     max-width: 220px;
-    margin: 0 auto 24px;
+    margin: 0 0 24px;
   }
 
   .news-list li { grid-template-columns: 1fr; }
