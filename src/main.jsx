@@ -21,11 +21,11 @@ const news = [
     date: '10/2026',
     text: (
       <>
-        Joined the <a href="https://feministmediastudio.ca/">Feminst Media Studio</a> 💜
+        Joined the <a href="https://feministmediastudio.ca/">Feminist Media Studio</a> 💜
       </>
     ),
   },
-  { date: '10/2026', text: "Attended 4S ⚖️ and presented on a panel, Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds" },
+  { date: '10/2026', text: "Attended 4S ⚖️ and presented on my first panel!" },
   { date: '09/2026', text: "Attended Tapia 🧩" },
   { date: '03/2026', text: "Attended TEI 🪡" },
   { date: '09/2025', text: "Joined the ESC Lab 🎉" },
