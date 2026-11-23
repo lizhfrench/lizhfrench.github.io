@@ -21,28 +21,20 @@ const news = [
     date: '10/2026',
     text: (
       <>
-        Joined the <a href="https://feministmediastudio.ca/">Feminst Media Studio</a>.
+        Joined the <a href="https://feministmediastudio.ca/">Feminst Media Studio</a> 💜
       </>
     ),
   },
-  {
-    date: '10/2026',
-    text: (
-      <>
-        Attended 4S and presented on a panel,{' '}
-        <i>Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds</i>.
-      </>
-    ),
-  },
-  { date: '09/2026', text: "Attended Tapia." },
-  { date: '03/2026', text: "Attended TEI." },
-  { date: '09/2025', text: "Joined the ESCape Lab." },
-  { date: '08/2025', text: "Started my Master's in CS & HCI at Georgia Tech." },
+  { date: '10/2026', text: "Attended 4S ⚖️ and presented on a panel, Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds" },
+  { date: '09/2026', text: "Attended Tapia 🧩" },
+  { date: '03/2026', text: "Attended TEI 🪡" },
+  { date: '09/2025', text: "Joined the ESC Lab 🎉" },
+  { date: '08/2025', text: "Started my Master's in CS & HCI at Georgia Tech 🎉" },
 ];
 
 const experience = {
   Research: [
-    ['ESCape Lab at Georgia Tech', 'Graduate Researcher', 'August 2025 – Present', 'https://www.esc-lab.org/'],
+    ['ESC Lab at Georgia Tech', 'Graduate Researcher', 'August 2025 – Present', 'https://www.esc-lab.org/'],
     ['Emory University Hospital', 'Senior Design', 'May – December 2024', 'https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678'],
     ['HumaniTech VIP at Georgia Tech', 'Undergraduate Researcher', 'January – May 2022', 'https://vip.gatech.edu/teams/entry/1323/'],
   ],
