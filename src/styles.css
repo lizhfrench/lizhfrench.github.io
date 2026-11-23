@@ -296,6 +296,22 @@ a:focus-visible {
 
 .resume-link:hover { text-decoration: underline; text-underline-offset: 4px; }
 
+.resume-section {
+  margin-top: 2.5rem;
+}
+
+.resume-section h2 {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  border-bottom: 1px solid currentColor;
+  margin-bottom: 1.25rem;
+}
+
+.resume-entry {
+  margin-bottom: 1.25rem;
+  line-height: 1.5;
+}
+
 /* ==========================================================================
    Footer
    ========================================================================== */
