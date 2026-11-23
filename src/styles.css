@@ -368,7 +368,7 @@ a:focus-visible {
 
   /* Stack the photo above the text and center it */
   .profile-photo {
-    float: none;
+    float: left;
     width: 100%;
     max-width: 220px;
     margin: 0 auto 24px;
