@@ -244,8 +244,11 @@ function ResearchPage() {
             <a href="https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678">Project summary</a>
           </p>
           <br></br>
+        </article>
           
       </section>
+
+        
       
     </>
   );
