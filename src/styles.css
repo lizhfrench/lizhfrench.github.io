@@ -30,6 +30,12 @@ a, button {
   cursor: url('/cursors/Normal.cur') 16 16, pointer;
 }
 
+a,
+button,
+[role="button"] {
+  cursor: url('/cursors/Link.cur') 16 16, pointer;
+}
+
 a { color: inherit }
 
 a:focus-visible {
