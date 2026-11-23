@@ -274,9 +274,6 @@ function ExperiencePage() {
 function ResumePage() {
   return (
     <div>
-      <a className="resume-link" href={resumeUrl} target="_blank" rel="noreferrer">
-        View my current resume (updated November 2026)
-      </a>
 
       <section className="resume-section">
         <h2>Manuscripts</h2>
@@ -330,6 +327,11 @@ function ResumePage() {
           Studies of Science (4S), Toronto, Canada, October 2026.
         </div>
       </section>
+      
+      <a className="resume-link" href={resumeUrl} target="_blank" rel="noreferrer">
+        View my current resume (updated November 2026)
+      </a>
+      
     </div>
   );
 }
