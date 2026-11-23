@@ -273,9 +273,64 @@ function ExperiencePage() {
 
 function ResumePage() {
   return (
-    <a className="resume-link" href={resumeUrl} target="_blank" rel="noreferrer">
-      View my current resume (updated November 2026)
-    </a>
+    <div>
+      <a className="resume-link" href={resumeUrl} target="_blank" rel="noreferrer">
+        View my current resume (updated November 2026)
+      </a>
+
+      <section className="resume-section">
+        <h2>Manuscripts</h2>
+
+        <div className="resume-entry">
+          <strong>Elizabeth French</strong>, Catherine Wieczorek, Yuting Peng,
+          Sylvia Janicki, and Shaowen Bardzell.
+          "Hit Me Hard and Soft: Sexuality, Selfhood, and Platform Power on
+          OnlyFans." Manuscript in preparation for the
+          <em> Proceedings of the ACM on Human-Computer Interaction.</em>
+        </div>
+
+        <div className="resume-entry">
+          <strong>Elizabeth French</strong>, Catherine Wieczorek, and Shaowen
+          Bardzell. "An Archival Look at Digital Sex Work." Pictorial in
+          preparation for the
+          <em> Proceedings of the ACM Designing Interactive Systems
+          Conference (DIS) 2027.</em>
+        </div>
+
+        <div className="resume-entry">
+          Yuting Peng, <strong>Elizabeth H. French</strong>, Catherine
+          Wieczorek, Emily M. Ray, Sasha E. Knowlton, Qiao Jin, Yawen Guo,
+          and Franklin Mingzhe Li.
+          "Expressed Needs and Peer Support Before Breast Cancer Diagnosis
+          and Treatment on Reddit: Content Analysis." Manuscript under review
+          at the <em>Journal of Medical Internet Research (JMIR).</em>{" "}
+          <a href="https://preprints.jmir.org/preprint/117217" target="_blank"
+             rel="noreferrer">Preprint</a>.
+        </div>
+
+        <div className="resume-entry">
+          Yuting Peng, Catherine Wieczorek, <strong>Elizabeth French</strong>,
+          Carly X. Yin, Xinwei Xu, and Shaowen Bardzell.
+          "Ordinary Tools, Organized Care: Bounded Mutuality in Eating-Disorder
+          Mutual Aid." Manuscript conditionally accepted at the
+          <em> ACM Conference on Human Factors in Computing Systems (CHI)
+          2027.</em>
+        </div>
+      </section>
+
+      <section className="resume-section">
+        <h2>Conference Presentations</h2>
+
+        <div className="resume-entry">
+          <strong>Elizabeth French</strong> (presenter), Catherine Wieczorek,
+          Yuting Peng, and Shaowen Bardzell.
+          "Hit Me Hard and Soft: Sexuality, Selfhood, and Platform Power on
+          OnlyFans." Panel: Reworking TechnoPower: Everyday Digital Practices
+          in Marginalized Worlds, Annual Meeting of the Society for Social
+          Studies of Science (4S), Toronto, Canada, October 2026.
+        </div>
+      </section>
+    </div>
   );
 }
 
