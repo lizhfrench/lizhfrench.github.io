@@ -294,15 +294,27 @@ a:focus-visible {
   text-decoration: none;
 }
 
-.resume-link:hover { text-decoration: underline; text-underline-offset: 4px; }
+.resume-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
 
 .resume-section {
   margin-top: 2.5rem;
 }
 
+.resume-section h2 {
+  margin: 0 0 17px;
+  color: var(--blue);
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: .04em;
+}
+
 .resume-entry {
-  margin-bottom: 1.25rem;
-  line-height: 1.5;
+  margin-bottom: 1.75rem;
+  line-height: 1.7;
 }
 
 /* ==========================================================================
