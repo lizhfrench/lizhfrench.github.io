@@ -274,9 +274,6 @@ function ExperiencePage() {
 function ResumePage() {
   return (
     <div>
-      <a className="resume-link" href={resumeUrl} target="_blank" rel="noreferrer">
-        View my current resume (updated November 2026)
-      </a>
       
       <section className="resume-section">
         <h2>Manuscripts</h2>
