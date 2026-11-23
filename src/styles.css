@@ -30,6 +30,11 @@ a:focus-visible {
   border-radius: 2px;
 }
 
+/* Changes cursor to a hand icon on buttons */
+button {
+  cursor: pointer;
+}
+
 /* ==========================================================================
    Layout
    ========================================================================== */
