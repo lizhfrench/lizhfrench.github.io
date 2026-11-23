@@ -244,10 +244,7 @@ function ResearchPage() {
             <a href="https://www.isye.gatech.edu/sd-projects/emory-healthcare-6678">Project summary</a>
           </p>
           <br></br>
-          <p className="project-note">
-            <a href="https://canva.link/6vbsr0niux0jd1z">Final capstone poster</a>
-          </p>
-        </article>
+          
       </section>
       
     </>
@@ -274,6 +271,11 @@ function ExperiencePage() {
 function ResumePage() {
   return (
     <div>
+
+      <p className="project-note">
+            <a href="https://canva.link/6vbsr0niux0jd1z">Final capstone poster</a>
+          </p>
+        </article>
 
       <section className="resume-section">
         <h2>Manuscripts</h2>
