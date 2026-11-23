@@ -300,7 +300,11 @@ a:focus-visible {
 }
 
 .resume-section {
-  margin-top: 2.5rem;
+  margin-top: 1.5rem;
+}
+
+.resume-section:first-of-type {
+  margin-top: 0;
 }
 
 .resume-section h2 {
@@ -336,7 +340,11 @@ a:focus-visible {
 
 @media (max-width: 640px) {
   .page-shell { width: min(100% - 40px, 860px); }
-  .site-header { margin-bottom: 52px; }
+  /* .site-header { margin-bottom: 52px; } */
+ .site-header {
+  padding-top: clamp(38px, 8vh, 76px);
+  margin-bottom: clamp(40px, 7vh, 65px);
+  }
   .site-nav { gap: 10px 17px; }
 
   /* Stack the photo above the text and center it */
