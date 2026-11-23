@@ -271,12 +271,10 @@ function ExperiencePage() {
 function ResumePage() {
   return (
     <div>
-
-      <p className="project-note">
-            <a href="https://canva.link/6vbsr0niux0jd1z">Final capstone poster</a>
-          </p>
-        </article>
-
+      <a className="resume-link" href={resumeUrl} target="_blank" rel="noreferrer">
+        View my current resume (updated November 2026)
+      </a>
+      
       <section className="resume-section">
         <h2>Manuscripts</h2>
 
