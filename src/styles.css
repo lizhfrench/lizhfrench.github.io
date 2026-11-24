@@ -293,7 +293,7 @@ a:focus-visible {
 .entry-date {
   color: var(--ink-muted);
   font-size: 13px;
-  text-align: right;
+  text-align: left;
   white-space: nowrap;
 }
 
