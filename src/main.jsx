@@ -317,7 +317,7 @@ function ResumePage() {
       </section>
 
       <section className="resume-section">
-        <h2>Conference Presentations</h2>
+        <h2>Conference presentations</h2>
 
         <div className="resume-entry">
           <strong>Elizabeth French</strong> (presenter), Catherine Wieczorek,
