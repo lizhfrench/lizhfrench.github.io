@@ -351,32 +351,6 @@ function App() {
   const page = document.body.dataset.page || 'about';
   const PageContent = pageComponents[page] || AboutPage;
 
-  React.useEffect(() => {
-  const handleNavigation = (event) => {
-    const link = event.target.closest('a');
-
-    if (!link) return;
-
-    // Ignore external links and new tabs
-    if (
-      link.target === '_blank' ||
-      event.metaKey ||
-      event.ctrlKey ||
-      event.shiftKey ||
-      event.altKey ||
-      link.origin !== window.location.origin
-    ) return;
-
-    document.body.classList.add('is-navigating');
-  };
-
-  document.addEventListener('click', handleNavigation);
-
-  return () => {
-    document.removeEventListener('click', handleNavigation);
-  };
-}, []);
-
   return (
     <div className="page-shell">
       <SiteHeader page={page} />
