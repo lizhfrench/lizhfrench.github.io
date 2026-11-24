@@ -36,11 +36,6 @@ button,
   cursor: url('/cursors/Link.cur') 16 16, pointer;
 }
 
-body.is-navigating,
-body.is-navigating * {
-  cursor: url('/cursors/Busy or Working.ani') 16 16, progress !important;
-}
-
 a { color: inherit }
 
 a:focus-visible {
