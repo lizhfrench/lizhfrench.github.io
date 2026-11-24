@@ -271,7 +271,7 @@ a:focus-visible {
   gap: 8px 20px;
   align-items: baseline;
   padding: 14px 0;
-  border-top: 1px solid var(--rule);
+  /*border-top: 1px solid var(--rule);*/
   font-size: 15px;
   line-height: 1.5;
 }
