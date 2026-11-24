@@ -18,18 +18,19 @@ const navigation = [
 
 const news = [
   {
-    date: '10/2026',
+    date: 'October 2026',
     text: (
       <>
         Joined the <a href="https://feministmediastudio.ca/">Feminist Media Studio</a> 💜
       </>
     ),
   },
-  { date: '10/2026', text: "Attended 4S ⚖️ and presented on my first panel!" },
-  { date: '09/2026', text: "Attended Tapia 🧩" },
-  { date: '03/2026', text: "Attended TEI 🪡" },
-  { date: '09/2025', text: "Joined the ESC Lab 🎉" },
-  { date: '08/2025', text: "Started my Master's in CS & HCI at Georgia Tech 🎉" },
+  { date: 'October 2026', text: "Attended 4S in Toronto and presented on my first panel!" },
+  { date: 'September 2026', text: "Attended Tapia in Atlanta" },
+  { date: 'March 2026', text: "Attended TEI in Chicago" },
+  { date: 'September 2025', text: "Joined the ESC Lab 🎉" },
+  { date: 'August 2025', text: "Started my master's in CS & HCI at Georgia Tech 🎉" },
+  { date: 'December 2024', text: "Earned my bachelor's from Georgia Tech 🎉" }
 ];
 
 const experience = {
