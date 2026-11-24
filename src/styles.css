@@ -180,10 +180,10 @@ a:focus-visible {
 
 .news-list li {
   display: grid;
-  grid-template-columns: 90px 1fr;
+  grid-template-columns: 130px 1fr;
   gap: 4px 20px;
   padding: 12px 0;
-  border-bottom: 1px solid var(--rule);
+  /*border-bottom: 1px solid var(--rule);*/
   font-size: 15px;
   line-height: 1.55;
 }
