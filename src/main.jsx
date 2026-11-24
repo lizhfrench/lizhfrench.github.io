@@ -25,9 +25,9 @@ const news = [
       </>
     ),
   },
-  { date: 'October 2026', text: "Attended 4S in Toronto and presented on my first panel!" },
-  { date: 'September 2026', text: "Attended Tapia in Atlanta" },
-  { date: 'March 2026', text: "Attended TEI in Chicago" },
+  { date: 'October 2026', text: "Attended 4S in Toronto 🍁 and presented on my first panel!" },
+  { date: 'September 2026', text: "Attended Tapia in Atlanta 🍑" },
+  { date: 'March 2026', text: "Attended TEI in Chicago ✶✶✶✶" },
   { date: 'September 2025', text: "Joined the ESC Lab 🎉" },
   { date: 'August 2025', text: "Started my master's in CS & HCI at Georgia Tech 🎉" },
   { date: 'December 2024', text: "Earned my bachelor's from Georgia Tech 🎉" }
