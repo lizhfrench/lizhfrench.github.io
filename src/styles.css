@@ -30,11 +30,11 @@ a, button {
   cursor: url('/cursors/Normal.cur') 16 16, pointer;
 }
 
-a,
+/*a,
 button,
 [role="button"] {
   cursor: url('/cursors/Busy or Working.ani') 16 16, pointer;
-}
+}*/
 
 a { color: inherit }
 
